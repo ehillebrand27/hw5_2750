@@ -1,0 +1,4 @@
+Mean: 30.00
+Median: 30.00
+Variance: 200.00
+Standard Deviation: 14.14
